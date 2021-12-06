@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "Init Branch\n";
+	std::cout << "Second Branch\n";
 	return 0;
 }
